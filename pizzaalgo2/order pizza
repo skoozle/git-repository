@@ -6,6 +6,16 @@ second line added to nick
 added another stepgit checout main
 im hungry
 really hungry
+<<<<<<< HEAD
 another chnage
 one more change
 1. nothing to see here
+=======
+added another step
+another chnage
+one more change
+1. nothing to see here
+i love pizza
+best pizza on earth
+even more pizza
+>>>>>>> nick
